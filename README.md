@@ -4,7 +4,7 @@
 
 ####效果动图GIF：
 ![Design Support Library Demo](http://sunjiajia.com/img/201507/android-new-widgets-demo.gif)
-https://raw.githubusercontent.com/land20150303/DesignDemo/master/resultPics/aa.png
+[Design Support Library Demo](https://raw.githubusercontent.com/land20150303/DesignDemo/master/resultPics/aa.png)
 
 **通过本实例可以学习到以下内容：**
 
