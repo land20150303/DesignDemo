@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android New Widgets Demo</string>
+    <string name="app_name">DesignDemo</string>
 
     <string name="toolbar_title">New Demo</string>
     <string name="action_settings">settings</string>
