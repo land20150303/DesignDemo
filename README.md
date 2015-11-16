@@ -15,5 +15,5 @@
 * 卡片式CardView的用法；
 * 类似Toast的新控件Snackbar的用法。
 
-> 源码地址：
+> 作者源码地址：
 > [DesignDemo](https://github.com/git0pen/AndroidNewWidgetsDemo)
