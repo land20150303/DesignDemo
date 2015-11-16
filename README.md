@@ -16,4 +16,4 @@
 * 类似Toast的新控件Snackbar的用法。
 
 > 源码地址：
-> [DesignDemo](https://github.com/land20150303/DesignDemo)
+> [DesignDemo](https://github.com/git0pen/AndroidNewWidgetsDemo)
