@@ -3,8 +3,7 @@
 伟大的Google为Android推出了一系列的兼容包，最新的就是Design Support Library了，这里我们结合v7和v4中的几个控件，来主要学习Design Support Library中的几个新控件！一个Demo学会用它们！
 
 ####效果动图GIF：
-![Design Support Library Demo](http
-://sunjiajia.com/img/201507/android-new-widgets-demo.gif)
+![Design Support Library Demo](http://sunjiajia.com/img/201507/android-new-widgets-demo.gif)
 
 **通过本实例可以学习到以下内容：**
 
