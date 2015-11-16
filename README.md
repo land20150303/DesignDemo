@@ -14,11 +14,5 @@
 * 卡片式CardView的用法；
 * 类似Toast的新控件Snackbar的用法。
 
-
-> 在源码中学习Android，是有种身临其境的感觉的。
-
-> 整个Demo的源码我放在了GitHub上，谢谢star一下~
-> 在看源码过程中如果发现什么问题，请在留言，看到一定回复。
-
 > 源码地址：
 > [DesignDemo](https://github.com/land20150303/DesignDemo)
