@@ -6,7 +6,6 @@
 ![Design Support Library Demo](http
 ://sunjiajia.com/img/201507/android-new-widgets-demo.gif)
 
-# 一个Demo学会用Android兼容包新控件
 **通过本实例可以学习到以下内容：**
 
 * Drawerlayout和NavigationView实现优雅的Google范儿侧边栏；
@@ -23,7 +22,4 @@
 > 在看源码过程中如果发现什么问题，请在留言，看到一定回复。
 
 > 源码地址：
-> [AndroidNewWidgetsDemo](https://github.com/git0pen/AndroidNewWidgetsDemo)
-
-> 博文地址：
-> [AndroidNewWidgetsDemo](http://sunjiajia.com/2015/07/02/android-new-widgets-demo/)
+> [DesignDemo](https://github.com/land20150303/DesignDemo)
