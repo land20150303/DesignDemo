@@ -6,7 +6,7 @@
     android:gravity="center"
     android:orientation="vertical">
 
-    <com.sunjiajia.androidnewwidgetsdemo.view.RoundedImageView
+    <com.tao.view.RoundedImageView
         android:id="@+id/id_header_face"
         android:layout_width="110dp"
         android:layout_height="110dp"

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sunjiajia.androidnewwidgetsdemo.view;
+package com.tao.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;

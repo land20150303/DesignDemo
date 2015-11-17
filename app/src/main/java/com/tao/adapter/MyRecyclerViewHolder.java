@@ -1,10 +1,10 @@
-package com.sunjiajia.androidnewwidgetsdemo.adapter;
+package com.tao.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
 
-import com.sunjiajia.androidnewwidgetsdemo.R;
+import com.tao.designdemo.R;
 
 /**
  * Created by Monkey on 2015/6/29.

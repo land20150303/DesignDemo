@@ -1,4 +1,4 @@
-package com.sunjiajia.androidnewwidgetsdemo;
+package com.tao;
 
 import android.os.Bundle;
 import android.os.Handler;
@@ -13,9 +13,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.sunjiajia.androidnewwidgetsdemo.adapter.MyRecyclerViewAdapter;
-import com.sunjiajia.androidnewwidgetsdemo.adapter.MyStaggeredViewAdapter;
-import com.sunjiajia.androidnewwidgetsdemo.utils.SnackbarUtil;
+import com.tao.adapter.MyRecyclerViewAdapter;
+import com.tao.adapter.MyStaggeredViewAdapter;
+import com.tao.designdemo.R;
+import com.tao.utils.SnackbarUtil;
 
 /**
  * Created by Monkey on 2015/6/29.

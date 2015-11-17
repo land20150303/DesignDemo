@@ -1,9 +1,9 @@
-package com.sunjiajia.androidnewwidgetsdemo.utils;
+package com.tao.utils;
 
 import android.support.design.widget.Snackbar;
 import android.view.View;
 
-import com.sunjiajia.androidnewwidgetsdemo.R;
+import com.tao.designdemo.R;
 
 /**
  * Created by Monkey on 2015/7/1.
