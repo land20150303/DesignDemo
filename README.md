@@ -14,6 +14,3 @@
 * SwipeRefreshLayout和RecyclerView结合实现下拉刷新，以及RecyclerView的数据适配器RecyclerView.Adapter<ViewHolder>的用法，还有RecyclerView中item的点击事件的实现方法；
 * 卡片式CardView的用法；
 * 类似Toast的新控件Snackbar的用法。
-
-> 作者源码地址：
-> [DesignDemo](https://github.com/git0pen/AndroidNewWidgetsDemo)

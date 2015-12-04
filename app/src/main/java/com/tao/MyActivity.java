@@ -1,5 +1,6 @@
 package com.tao;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.CoordinatorLayout;
@@ -7,14 +8,29 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentStatePagerAdapter;
+import android.support.v4.view.PagerAdapter;
+import android.support.v4.view.PagerTabStrip;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.AbsoluteLayout;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.Spinner;
+import android.widget.TableLayout;
+import android.widget.TextView;
 
 import com.tao.adapter.MyViewPagerAdapter;
 import com.tao.designdemo.R;
@@ -26,6 +42,22 @@ import java.util.List;
 import static android.support.design.widget.TabLayout.*;
 
 public class MyActivity extends AppCompatActivity implements ViewPager.OnPageChangeListener, OnClickListener {
+
+    //LinearLayout
+    //TextView
+//    ImageView
+//    RelativeLayout
+//    PagerTabStrip
+//    Button
+//    EditText
+//    Spinner
+//    FrameLayout
+//    TableLayout
+//    AbsoluteLayout
+//    RecyclerView
+
+
+
 
     //初始化各种控件，照着xml中的顺序写
     private DrawerLayout mDrawerLayout;
@@ -170,6 +202,7 @@ public class MyActivity extends AppCompatActivity implements ViewPager.OnPageCha
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_my, menu);
+        //Activity.getMenuInflater().inflate(..);
         return true;
     }
 
